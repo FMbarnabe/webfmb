@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+
+    background-image: url('snk.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 500px;
+    background-color: rgba(255, 255, 255, 0.95);
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('snk.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 500px;
+    background-color: rgba(255, 255, 255, 0.95);
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
